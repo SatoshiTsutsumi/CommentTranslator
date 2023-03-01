@@ -2,9 +2,9 @@
 Simple translator for program comments
 
 # Prerequisites
-- comment-parser [comment-parser](https://pypi.org/project/comment-parser/)
+- [comment-parser](https://pypi.org/project/comment-parser/)
 - libmagic
-- DeepL API Key [DeepL API](https://www.deepl.com/en/docs-api)
+- [DeepL API Key](https://www.deepl.com/en/docs-api)
 
 
 # Spec
